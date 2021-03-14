@@ -1,0 +1,173 @@
+{
+  "modes": [
+    {
+      "id": "1",
+      "mode": "easy",
+      "questions": [
+        {
+          "question": "easy ques 1",
+          "options": {
+            "a": "option 1",
+            "b": "option 2",
+            "c": "option 3",
+            "d": "option 4"
+          },
+          "correctKey": "c"
+        },
+        {
+          "question": "easy ques 2",
+          "options": {
+            "a": "option 1",
+            "b": "option 2",
+            "c": "option 3",
+            "d": "option 4"
+          },
+          "correctKey": "d"
+        },
+        {
+          "question": "easy ques 3",
+          "options": {
+            "a": "option 1",
+            "b": "option 2",
+            "c": "option 3",
+            "d": "option 4"
+          },
+          "correctKey": "a"
+        },
+        {
+          "question": "easy ques 4",
+          "options": {
+            "a": "option 1",
+            "b": "option 2",
+            "c": "option 3",
+            "d": "option 4"
+          },
+          "correctKey": "b"
+        },
+        {
+          "question": "easy ques 5",
+          "options": {
+            "a": "option 1",
+            "b": "option 2",
+            "c": "option 3",
+            "d": "option 4"
+          },
+          "correctKey": "c"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "mode": "medium",
+      "questions": [
+        {
+          "question": "medium ques 1",
+          "options": {
+            "a": "option 1",
+            "b": "option 2",
+            "c": "option 3",
+            "d": "option 4"
+          },
+          "correctKey": "c"
+        },
+        {
+          "question": "medium ques 2",
+          "options": {
+            "a": "option 1",
+            "b": "option 2",
+            "c": "option 3",
+            "d": "option 4"
+          },
+          "correctKey": "d"
+        },
+        {
+          "question": "medium ques 3",
+          "options": {
+            "a": "option 1",
+            "b": "option 2",
+            "c": "option 3",
+            "d": "option 4"
+          },
+          "correctKey": "a"
+        },
+        {
+          "question": "medium ques 4",
+          "options": {
+            "a": "option 1",
+            "b": "option 2",
+            "c": "option 3",
+            "d": "option 4"
+          },
+          "correctKey": "b"
+        },
+        {
+          "question": "medium ques 5",
+          "options": {
+            "a": "option 1",
+            "b": "option 2",
+            "c": "option 3",
+            "d": "option 4"
+          },
+          "correctKey": "c"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "mode": "hard",
+      "questions": [
+        {
+          "question": "hard ques 1",
+          "options": {
+            "a": "option 1",
+            "b": "option 2",
+            "c": "option 3",
+            "d": "option 4"
+          },
+          "correctKey": "c"
+        },
+        {
+          "question": "hard ques 2",
+          "options": {
+            "a": "option 1",
+            "b": "option 2",
+            "c": "option 3",
+            "d": "option 4"
+          },
+          "correctKey": "d"
+        },
+        {
+          "question": "hard ques 3",
+          "options": {
+            "a": "option 1",
+            "b": "option 2",
+            "c": "option 3",
+            "d": "option 4"
+          },
+          "correctKey": "a"
+        },
+        {
+          "question": "hard ques 4",
+          "options": {
+            "a": "option 1",
+            "b": "option 2",
+            "c": "option 3",
+            "d": "option 4"
+          },
+          "correctKey": "b"
+        },
+        {
+          "question": "hard ques 5",
+          "options": {
+            "a": "option 1",
+            "b": "option 2",
+            "c": "option 3",
+            "d": "option 4"
+          },
+          "correctKey": "c"
+        }
+      ]
+    }
+  ],
+  "userAnswers": []
+}
