@@ -3,7 +3,7 @@ import "./styles.css";
 const quizContainer = document.getElementById("quiz-container");
 const startBtn = document.getElementById("start-btn");
 
-const url = "http://127.0.0.1:3000";
+const url = "https://my-json-server.typicode.com/ramneek2504/quiz-app";
 
 // SELECTED MODE
 let selectedMode = null;
@@ -23,9 +23,7 @@ startBtn.addEventListener("click", startQuiz);
 
 // fetch the questions from the server
 async function getQuestions() {
-  const response = await fetch(
-    `http://127.0.0.1:3000/modes?mode=${selectedMode}`
-  );
+  const response = await fetch(`${url}/modes?mode=${selectedMode}`);
   const data = await response.json();
 
   const questions = data[0].questions;
